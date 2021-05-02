@@ -30,7 +30,7 @@ install figlet
 install lolcat
 
 # Run all scripts in programs/
-for f in programs/*.sh; do bash "$f" -H; done
+for f in programs/*.sh; do "$f" -H; done
 
 # Copy dotfiles
 ./copy.sh
