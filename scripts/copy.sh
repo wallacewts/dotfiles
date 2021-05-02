@@ -7,3 +7,4 @@ cp -r .config ${HOME}
 cp -r .fonts ${HOME}
 cp .gitconfig ${HOME}
 cp .zshrc ${HOME}
+cp .bashrc ${HOME}

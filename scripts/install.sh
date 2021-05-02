@@ -35,6 +35,14 @@ for f in programs/*.sh; do bash "$f" -H; done
 # Copy dotfiles
 ./copy.sh
 
+source ~/.bashrc
+
+# Install nodejs with asdf
+figlet Installing NodeJS | lolcat
+asdf plugin add nodejs
+asdf install nodejs latest:lts
+asdf global nodejs lts
+
 # Get all upgrades
 sudo apt upgrade -y
 sudo apt autoremove -y
