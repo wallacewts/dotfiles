@@ -1,0 +1,6 @@
+2021/05/02-13:18:41.898 a64 Reusing MANIFEST /home/wallace/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/05/02-13:18:41.898 a64 Recovering log #3
+2021/05/02-13:18:41.901 a64 Reusing old log /home/wallace/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2021/05/02-13:19:01.230 a61 Level-0 table #5: started
+2021/05/02-13:19:01.235 a61 Level-0 table #5: 136724 bytes OK
+2021/05/02-13:19:01.237 a61 Delete type=0 #3

@@ -1,0 +1,15 @@
+2021/05/02-13:46:38.959 baf Reusing MANIFEST /home/wallace/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/02-13:46:38.960 baf Recovering log #19
+2021/05/02-13:46:38.960 baf Reusing old log /home/wallace/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000019.log 
+2021/05/02-13:46:42.261 bae Level-0 table #24: started
+2021/05/02-13:46:42.263 bae Level-0 table #24: 633 bytes OK
+2021/05/02-13:46:42.265 bae Delete type=0 #19
+2021/05/02-13:46:42.265 bae Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/02-13:46:42.265 bae Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00c\x00h\x00a\x00t\x00/\x00u\x00/\x000\x00/' @ 109 : 1
+2021/05/02-13:46:42.265 bae Compacting 1@1 + 1@2 files
+2021/05/02-13:46:42.266 bae Generated table #25@1: 19 keys, 744 bytes
+2021/05/02-13:46:42.266 bae Compacted 1@1 + 1@2 files => 744 bytes
+2021/05/02-13:46:42.267 bae compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/02-13:46:42.268 bae Delete type=2 #21
+2021/05/02-13:46:42.268 bae Delete type=2 #24
+2021/05/02-13:46:42.268 bae Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00c\x00h\x00a\x00t\x00/\x00u\x00/\x000\x00/' @ 109 : 1 .. (end); will stop at (end)

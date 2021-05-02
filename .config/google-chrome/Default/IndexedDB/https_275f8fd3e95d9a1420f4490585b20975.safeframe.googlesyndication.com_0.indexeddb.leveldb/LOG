@@ -1,0 +1,6 @@
+2021/05/02-13:49:59.239 11f5 Creating DB /home/wallace/.config/google-chrome/Default/IndexedDB/https_275f8fd3e95d9a1420f4490585b20975.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/05/02-13:49:59.243 11f5 Reusing MANIFEST /home/wallace/.config/google-chrome/Default/IndexedDB/https_275f8fd3e95d9a1420f4490585b20975.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/02-13:50:01.911 1275 Level-0 table #5: started
+2021/05/02-13:50:01.912 1275 Level-0 table #5: 439 bytes OK
+2021/05/02-13:50:01.914 1275 Delete type=0 #3
+2021/05/02-13:50:01.914 1275 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

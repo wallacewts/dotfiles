@@ -1,0 +1,8 @@
+2021/05/02-13:46:36.650 baf Reusing MANIFEST /home/wallace/.config/google-chrome/Default/IndexedDB/chrome-extension_ecikoeehpobhkjagenjmldoehmcmeioo_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/02-13:46:36.650 baf Recovering log #22
+2021/05/02-13:46:36.651 baf Reusing old log /home/wallace/.config/google-chrome/Default/IndexedDB/chrome-extension_ecikoeehpobhkjagenjmldoehmcmeioo_0.indexeddb.leveldb/000022.log 
+2021/05/02-13:47:08.654 bca Level-0 table #26: started
+2021/05/02-13:47:08.654 bca Level-0 table #26: 0 bytes OK
+2021/05/02-13:47:08.655 bca Delete type=0 #22
+2021/05/02-13:47:08.656 bca Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/02-13:47:08.656 bca Manual compaction at level-1 from (begin) .. (end); will stop at (end)

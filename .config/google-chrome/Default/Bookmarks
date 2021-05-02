@@ -1,0 +1,83 @@
+{
+   "checksum": "eca80693493cc6ab78c9515579b3fa16",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13256744464230032",
+            "guid": "bbfffdea-91d3-4789-b127-1c86c5e62f20",
+            "id": "5",
+            "name": "Upgrade Your SSH Key to Ed25519. If you’re a DevOps engineer or a web… | by Risan Bagja Pradana | risan | Medium",
+            "type": "url",
+            "url": "https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54"
+         }, {
+            "date_added": "13250177009236243",
+            "guid": "9ddc3ccb-668a-4db8-8236-00cf2e681a82",
+            "id": "6",
+            "name": "generatedata.com",
+            "type": "url",
+            "url": "https://www.generatedata.com/"
+         }, {
+            "date_added": "13256850203017876",
+            "guid": "4ff0566e-015e-4f33-ad1b-b04682235fcc",
+            "id": "7",
+            "name": "A Complete Guide to Flexbox | CSS-Tricks",
+            "type": "url",
+            "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+         }, {
+            "date_added": "13256872059140413",
+            "guid": "8060a73a-af00-41df-90ac-d49d12359b2c",
+            "id": "8",
+            "name": "npm seems to be tripping on asdf · Issue #162 · asdf-vm/asdf",
+            "type": "url",
+            "url": "https://github.com/asdf-vm/asdf/issues/162"
+         }, {
+            "date_added": "13258469937642313",
+            "guid": "f547a7d7-4757-4d11-98dd-070c826f636e",
+            "id": "9",
+            "name": "Testes de unidade usando Angular. Agora que sabemos um pouco o porquê… | by João Henrique de Oliveira Júnior | TOTVS Developers | Medium",
+            "type": "url",
+            "url": "https://medium.com/totvsdevelopers/testes-de-unidade-usando-angular-b83ea6accf7c"
+         }, {
+            "date_added": "13258757933294871",
+            "guid": "44831693-6feb-4847-9085-6591251720ee",
+            "id": "10",
+            "name": "TIL: Mocking localStorage and sessionStorage in Angular Unit Tests | by Armno P. 🇹🇭 | Medium",
+            "type": "url",
+            "url": "https://medium.com/@armno/til-mocking-localstorage-and-sessionstorage-in-angular-unit-tests-a765abdc9d87"
+         }, {
+            "date_added": "13262113644929443",
+            "guid": "67991a38-9715-4887-b7c0-cad3a76dc980",
+            "id": "11",
+            "name": "Simple Readme - Visual Studio Marketplace",
+            "type": "url",
+            "url": "https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme"
+         } ],
+         "date_added": "13264308122722631",
+         "date_modified": "13262113644929443",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13264308122722636",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13264308122722638",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJALraDjvBBQAhALraDjvBBQAiFAksEScfO8EFABAIGQPhJQ3Q1sJnMhgKFggCEfylQB87wQUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgkAutoOO8EFACEAutoOO8EFADIYChYIAhH8pUAfO8EFABgAIQAAAAAAAAAAIABI2pWnrZIvcMGCp62SLxIAIAEqGGR5dGkzcXBPc0ZGL0tzWTU1d2FWWWc9PRLDAQgCEr4BChx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EmZaOkFEcXRBWndDVFFkQ3hVUDl4SHd5ekJsWEdwY3UzRUJtc01PVnNpZWszUG9weXNISkpsd1B2S3dUT1g2amVZZTR6WWZRczE4SnBveEdHNEl1QlJlT1QxbUNmMVpIUDJNbWxnPT0YACAAKAAw0qaj97Gn8AI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgBlAAAAABK1AggKErACChxINEp3VlVPTlcrQjZIRkVoSFFqdmFtRCtZWkk9EqYBWjpBRHF0QVp3dmlra2lLV3E0L3kwanh2ekxKdjB2Szl6d05xUFlvL3U3aDRvUVB5R0pHVytWREg5TWdGUWluaHpldG5SYTE2S1N0SzZHWnhqbmM5M2l5akF4TFFXQkpTSEVxVmQrZDdKNDJSSUdnMkRVbG81YUEyWjBvMmJqZkUvTXJUNVRaTlpxQmVVVHVBc2NicXFKTldnTXZQVlZtOEpCYlE9PRgAIAIoAjCropz5safwAjjwweDW/S5Ao4WnrZIvShw2aUg3QTJmcG9XTU1PdnNJdjZIRHdHaUtyajA9WiciJf////8AAAAE/WVOcDcxd2F6SGF2M2VCa3RlTzVNTmw1bzFXbz1lW4VDYxK1AggHErACChwwY1N1YWRkUW9scEJVd01qZVNFdHN1YzdXTUk9EqYBWjpBRHF0QVp3dmlra2lLV3E0L3kwanh2ekxKdjB2Szl6d05xUFlvL3U3aDRvUVB5R0pHZjNpOUhjMHljOEhXMFduYWVybXhXaE1NR0hwaERMdFFDOTJURVpSM0Zmd2lVdVFJM2MwNEZmWHlxb0pqUkhaL0UwTzRKU2FEcDhZcDN5SDhwRUNHWWkveWZ1Z3hYNHVFTjYrNkN1dWdYcEdMdzd4M0E9PRgAIAIoAjCropz5safwAjiK84nJ9i5AsISnrZIvShx1eUV1ZWdNckcwMTJibkZEbkRhbzEzd0dMN3c9WiciJf////8AAAAE7VBtU3V4L0FZM2luV2RvSmNhVjc4bGhINXpjOD1lxKdb8xKwAggGEqsCChwyUEpyRUttZzlwQXp5RDlKYmI1WEtIQzk1VlU9EqYBWjpBRHF0QVp3dmlra2lLV3E0L3kwanh2ekxKdjB2dmRmTnFpcnltZWZndk5QV01wbmxZTmR5TnErSEdnWjc2bXAyU0hFV21rcnJwQ2J3NU03N1hlOUZjZHVvbUdMMjl6VUY4YXFDb0M0YlZQeWVuZ2R5ZWRJcElwcHdzUW5iZlB5bk55bFQvb2FYU0RzVk5aWEJtR2owNGNJclJ3dkhpY2l1RVE9PRgAIAAoADCC78KMoKvtAjjUvIbb3S5A1LyG290uShwwSXVxUjZOYzF1b09UbUV2dXFBRmdTazdGclE9WiIiIP////1MajVCYmw5K1owVnZOeTRNYXJxUEtqUmFCdGs9ZQAAAAAStQIICxKwAgocY0ZhcjBGUzF0YlFIcUFUandYK1RvdW1qM3pBPRKmAVo6QURxdEFad3Zpa2tpS1dxNC95MGp4dnpMSnYwdk5nUUJPMXhpa05Td0hROGthUmdzek85L0VkVFVFK0N4dnY5bEkvMTRDYlRYenFDemJJSUV5RHhzTm0yeWdnZmhOeHRMU1dFNUZYVGxzV1A0T09kOXVLQ2pDY2VXTUdjdjZGSE9PWWdvRTVDUldPTStEVFJ5YnpSRDZsRzJVczc0TXU3RHFRPT0YACAAKAAw1/W74qqA8AI4gfPwloovQIHz8JaKL0ocMXlWQ0lRZytXRXNhYlZCcjBjbW96VWJYVUlzPVonIiX/////AAAABP5ER2lERmZRbEF3Y0ZCSlBGRytiY2Zla2hNUnc9Zacc0hkSrQIIBRKoAgoceXVRdzlrK0pPM1lieWd6VUpSREJUQXNLTXFjPRKmAVo6QURxdEFad3Zpa2tpS1dxNC95MGp4dnpMSnYwdks5endOcVBZby91N2g0b1FQeUdKR1VFMHV0ZHYrSGFQclVFM0Ftd0Foc0dLaHhnNEorUmdEcWowcUw2ekVzTDhRbW9XcXkwQWliWGxDcGJqd3dyMGdFR0thZjBadVVBUHRqVHNhZEtjT2pSUVk3eTJCSnhhd1FBV1JrQmJvRUZYc0lyeEF3PT0YACACKAIwq6Kc+bGn8AI4547UlvYuQLCEp62SL0ocUWFtbzE4OXp3R1hKeHZ0THFHK2wxaHE5cXVvPVofIh0nY3ZBbHFWdXlKZ21CWVVFL1BmeTl4V0Z6cDY0PWVbhUNjErUCCAkSsAIKHHQzZkRteVM2NjBVTi82S1lIVnNaMXV3RENPcz0SpgFaOkFEcXRBWnd2aWtraUtXcTQveTBqeHZ6TEp2MHZLOXp3TnFQWW8vdTdoNG9RUHlHSkdWenJxbXp1ZXcxamovSUV2V0REV2xsYzhaNnF4dW41L3d3ZlBORmVoTHg0UCttVUh2anVLQ0dUYi9lT2M1ZTdSNXRuRHFKV2YyUnZsaVYvKy9GaUpwZU5mWjEra1lqajFxeGFIdjdkd1dwUHh6U2tGZz09GAAgAigCMKuinPmxp/ACOOrTts38LkCxhKetki9KHERUQ3l1dnN1bHEvdUNZV1pYa25wREhMbzY2ST1aJyIl/////wAAAAT7eGtnbUNvdTRpejBEd1lDTHFQY0lKMWdKZHNZPWVbhUNjErUCCAgSsAIKHE9SNHRwZloyWmJjTFpPVlEzTkkvUDZVTkZYQT0SpgFaOkFEcXRBWnd2aWtraUtXcTQveTBqeHZ6TEp2MHZOZ1FCTzF4aWtOU3dIUThrYVJnc3pBcm1peGtkQzZIU0xGc3NYbENhU25ISGNVUDIwTjRRT2ZPa0R4UlJ6RlcxdzFKUXlHU2psWmp5TkFDWkRpdE1QUHNaVEhxUWszV2s3TFhNeEVjVjFLR2UxNGMzalNsY3JtNnZUNnRFc2FTMGlsSE9VUT09GAAgAigCMKuinPmxp/ACOITyv9P2LkCxhKetki9KHEg0QkpDaHVrTE94ZGloc2hhRkNTVU5LN2hLND1aJyIl/////wAAAAT2UzFNZVN0S2d6dUtMMiszVHdvR1dZb092aEMwPWUo0OGpEqsBCAESpgEKHC9FS0xhVVV5TWRiS0VrMUJhMlVpbnlEbmY3ST0STlo6QURxdEFaeldDaUxoOGlWV25IVWlnK2t0ajFobWpzbTlMWGM0M3NIbS91OG44OS81eWh1SE90K0FWZVVSbDlQYzFpb3FLTFhaOFR6eBgAIAAoADDSpqP3safwAjgAQABKHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aAGUAAAAAEsMBCAMSvgEKHHk1V0UyN3VJNnZYL0RlSVNISnpuak1xdVdXcz0SZlo6QURxdEFaenQ2ZUlYMytTR2dCUEVuSmFrTG12c21mY0x3aXNCN1dYdVlzUi8yWXNZSDVqZmJLeXpDT1VVQyt6QkhWMkNibFo3TlRON2tlTXpQeHpuNnh2dlNWVFRLQ1BYalE9PRgAIAAoADDSpqP3safwAjgAQABKHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aAGUAAAAAGAEgzZanrZIvKAA=",
+   "version": 1
+}

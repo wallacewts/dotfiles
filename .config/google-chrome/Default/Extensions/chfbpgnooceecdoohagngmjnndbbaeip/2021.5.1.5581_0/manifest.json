@@ -1,0 +1,49 @@
+{
+   "app": {
+      "display_mode": "standalone",
+      "icon_color": "#58B770",
+      "launch": {
+         "web_url": "https://chat.google.com/?shell=8&lfhs=2"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://ssl.gstatic.com/dynamite/images/favicons_202011171613/chat-favicon-no-new-16dp.png"
+      }, {
+         "size": 24,
+         "url": "https://ssl.gstatic.com/dynamite/images/favicons_202011171613/chat-favicon-no-new-24dp.png"
+      }, {
+         "size": 32,
+         "url": "https://ssl.gstatic.com/dynamite/images/favicons_202011171613/chat-favicon-no-new-32dp.png"
+      }, {
+         "size": 48,
+         "url": "https://ssl.gstatic.com/dynamite/images/favicons_202011171613/chat-favicon-no-new-48dp.png"
+      }, {
+         "size": 64,
+         "url": "https://ssl.gstatic.com/dynamite/images/favicons_202011171613/chat-favicon-no-new-64dp.png"
+      }, {
+         "size": 256,
+         "url": "https://ssl.gstatic.com/dynamite/images/favicons_202011171613/chat-favicon-no-new-256dp.png"
+      } ],
+      "theme_color": "rgba(232,234,237,1)"
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "24": "icons/24.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "B71deJaSZVgrphLuQpfjAsN6tMifEmnIojN3YMmztrA=",
+   "name": "Google Chat",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://chat.google.com/*" ],
+         "title": "Google Chat"
+      }
+   },
+   "version": "2021.5.1.5581"
+}

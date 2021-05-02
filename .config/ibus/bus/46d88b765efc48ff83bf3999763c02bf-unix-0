@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:abstract=/home/wallace/.cache/ibus/dbus-WPEnFush,guid=c7b63d81b23a204970f23277608ed729
+IBUS_DAEMON_PID=1983
