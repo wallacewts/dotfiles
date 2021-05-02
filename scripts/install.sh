@@ -36,7 +36,7 @@ for f in programs/*.sh; do bash "$f" -H; done
 ./copy.sh
 
 # Reload configurations
-source .zshrc
+source ~/.bashrc
 
 # Install nodejs with asdf
 figlet Installing NodeJS | lolcat
