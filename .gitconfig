@@ -1,3 +1,5 @@
 [user]
 	email = matheuswts2011@hotmail.com
 	name = Matheus Wallace
+[core]
+	editor = vim
