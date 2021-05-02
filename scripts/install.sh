@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Copy dotfiles
-./copy.sh
-
 # Update Ubuntu and get standard repository programs
 sudo apt update && sudo apt full-upgrade -y
 
@@ -34,6 +31,9 @@ install lolcat
 
 # Run all scripts in programs/
 for f in programs/*.sh; do bash "$f" -H; done
+
+# Copy dotfiles
+./copy.sh
 
 # Get all upgrades
 sudo apt upgrade -y
