@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Copy dotfiles
+./copy.sh
+
 # Update Ubuntu and get standard repository programs
 sudo apt update && sudo apt full-upgrade -y
 
@@ -31,17 +34,6 @@ install lolcat
 
 # Run all scripts in programs/
 for f in programs/*.sh; do bash "$f" -H; done
-
-# Copy dotfiles
-./copy.sh
-
-source ~/.bashrc
-
-# Install nodejs with asdf
-figlet Installing NodeJS | lolcat
-asdf plugin add nodejs
-asdf install nodejs latest:lts
-asdf global nodejs lts
 
 # Get all upgrades
 sudo apt upgrade -y
