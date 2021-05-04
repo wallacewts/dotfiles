@@ -73,7 +73,7 @@ ZSH_THEME="spaceship"
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
-
+source ~/.zinit/bin/zinit.zsh
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
