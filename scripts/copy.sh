@@ -5,6 +5,6 @@ cd ..
 
 cp -r .config ${HOME}
 cp -r .fonts ${HOME}
-cp .gitconfig ${HOME}
-cp .zshrc ${HOME}
-cp .bashrc ${HOME}
+ln -s "$(pwd)/.gitconfig" ~/.zshrc
+ln -s "$(pwd)/.zshrc" ~/.zshrc
+ln -s "$(pwd)/.bashrc" ~/.zshrc
