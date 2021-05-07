@@ -1,6 +1,6 @@
 #!/bin/bash
 
-figlet Installing Beekeeper Studi | lolcat
+figlet Installing Beekeeper Studio | lolcat
 
 # Install our GPG key
 wget --quiet -O - https://deb.beekeeperstudio.io/beekeeper.key | sudo apt-key add -
