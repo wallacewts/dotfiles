@@ -76,6 +76,10 @@ plugins=(
   docker-compose
 )
 
+
+
+ZSH_DISABLE_COMPFIX=true
+
 source $ZSH/oh-my-zsh.sh
 source ~/.zinit/bin/zinit.zsh
 # User configuration
