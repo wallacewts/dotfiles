@@ -16,9 +16,9 @@ sudo add-apt-repository \
 sudo apt update
 sudo apt install -y docker-ce docker-ce-cli containerd.io
 #sudo groupadd docker
-#sudo usermod -aG docker $USER
+sudo usermod -aG docker $USER
 #newgrp docker 
-sudo docker run hello-world
+docker run hello-world
 
 figlet Installing Docker Compose | lolcat
 sudo curl -L "https://github.com/docker/compose/releases/download/1.29.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
