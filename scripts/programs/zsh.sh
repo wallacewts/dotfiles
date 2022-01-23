@@ -10,5 +10,4 @@ figlet Installing spaceship theme | lolcat
 /bin/zsh -c "ln -s '/home/$USER/.oh-my-zsh/custom/themes/spaceship-prompt/spaceship.zsh-theme' '/home/$USER/.oh-my-zsh/custom/themes/spaceship.zsh-theme'"
 
 figlet Installing zinit | lolcat
-mkdir ~/.zinit
-/bin/zsh -c "git clone https://github.com/zdharma/zinit.git ~/.zinit/bin"
+sh -c "$(curl -fsSL https://git.io/zinit-install)"
