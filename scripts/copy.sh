@@ -4,7 +4,7 @@
 cd ..
 
 # remove files if already exists
-rm -rf "$(pwd)/.gitconfig" "$(pwd)/.zshrc" "$(pwd)/.bashrc"
+rm -rf "${HOME}/.gitconfig" "${HOME}/.zshrc" "${HOME}/.bashrc"
 
 # copy dot folders
 cp -r .config ${HOME}

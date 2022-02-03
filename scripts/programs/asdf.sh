@@ -11,8 +11,3 @@ asdf plugin add nodejs
 asdf install nodejs latest:lts
 asdf global nodejs lts
 
-# Install yarn with asdf
-figlet Installing Yarn | lolcat
-asdf plugin-add yarn 
-asdf install yarn 1.22.10
-asdf global yarn 1.22.10

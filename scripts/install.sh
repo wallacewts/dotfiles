@@ -19,6 +19,7 @@ install curl
 install git
 install openvpn
 install vim
+install snap
 
 # Image processing
 install gimp
@@ -33,7 +34,7 @@ install lolcat
 for f in programs/*.sh; do bash "$f" -H; done
 
 # Copy dotfiles
-./copy.sh
+./copy.sh $1
 
 # Get all upgrades
 sudo apt upgrade -y
@@ -41,3 +42,5 @@ sudo apt autoremove -y
 
 # Fun finish message
 figlet Finish installation | lolcat
+
+./create-docker-group.sh

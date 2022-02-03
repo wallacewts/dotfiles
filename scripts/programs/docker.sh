@@ -21,18 +21,6 @@ sudo apt-get update
 
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 
-sudo docker run hello-world
-
-if [ ! $(getent group docker) ]; then
-    sudo groupadd docker
-fi
-
-sudo usermod -aG docker $USER
-
-newgrp docker
-
-docker run hello-world
-
 # docker-compose
 figlet Installing Docker Compose | lolcat
 
