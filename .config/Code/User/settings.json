@@ -1,50 +1,46 @@
 {
-    "explorer.confirmDragAndDrop": false,
-    "editor.formatOnSave": false,
-    
-    "emmet.preferences": {
-    
-    },
-    "workbench.colorTheme": "Dracula" ,  
-    "editor.tabSize": 2,
-    "editor.fontSize": 14,
-    "editor.fontFamily": "Fira Code",
-    "editor.lineHeight": 24,
-    "editor.fontLigatures": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
 
-    "explorer.compactFolders": false,
-    "editor.renderLineHighlight": "gutter",
-    "workbench.editor.labelFormat": "short",
-    "javascript.updateImportsOnFileMove.enabled": "never",
-    "typescript.updateImportsOnFileMove.enabled": "never",
-    "editor.rulers": [
-        80,
-        120
-    ],
-    "workbench.iconTheme": "material-icon-theme",
+  "emmet.preferences": {},
+  "workbench.colorTheme": "Dracula",
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Fira Code",
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
 
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    },
+  "explorer.compactFolders": false,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "editor.rulers": [80, 120],
+  "workbench.iconTheme": "material-icon-theme",
 
-    "material-icon-theme.folders.associations": {
-        "infra": "app",
-        "entities": "class",
-        "schemas": "class",
-        "typeorm": "database",
-        "repositories": "mappings",
-        "http": "container",
-        "migrations": "tools",
-        "modules": "components",
-        "implementations": "core",
-        "dtos": "typescript",
-        "fakes": "mock"
-    },
-    "material-icon-theme.files.associations": {
-        "ormconfig.json": "database",
-        "tsconfig.json": "tune"
-    },
-    "editor.wordWrap": "on",
-    "workbench.startupEditor": "newUntitledFile",
-    "angular.experimental-ivy": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  "material-icon-theme.folders.associations": {
+    "infra": "app",
+    "entities": "class",
+    "schemas": "class",
+    "typeorm": "database",
+    "repositories": "mappings",
+    "http": "container",
+    "migrations": "tools",
+    "modules": "components",
+    "implementations": "core",
+    "dtos": "typescript",
+    "fakes": "mock"
+  },
+  "material-icon-theme.files.associations": {
+    "ormconfig.json": "database",
+    "tsconfig.json": "tune"
+  },
+  "editor.wordWrap": "on",
+  "workbench.startupEditor": "newUntitledFile",
+  "angular.experimental-ivy": true
 }
